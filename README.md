@@ -1,2 +1,3 @@
-# git-tutorial
-A short GIT Tutorial
+# This is a short GIT Tutorial
+
+For the Python/Selenium workshop
